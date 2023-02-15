@@ -1,0 +1,30 @@
+ Navbar{
+
+
+position: relative;
+width: 1512px;
+height: 90px;
+left: 3em;
+top: 20px;
+
+background: #FFFFFF;
+}
+body{
+	overflow: hidden;
+}
+	 bytelight {
+
+
+width: 94.63px;
+height: 21.46px;
+
+background: #02043F;
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}
+
+ 
